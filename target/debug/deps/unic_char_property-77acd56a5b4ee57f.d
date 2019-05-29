@@ -1,0 +1,10 @@
+C:\Users\Admin\Desktop\RUSTLABS\RUSTweb\target\debug\deps\libunic_char_property-77acd56a5b4ee57f.rlib: C:\Users\Admin\.cargo\registry\src\github.com-1ecc6299db9ec823\unic-char-property-0.7.0\src\lib.rs C:\Users\Admin\.cargo\registry\src\github.com-1ecc6299db9ec823\unic-char-property-0.7.0\src\pkg_info.rs C:\Users\Admin\.cargo\registry\src\github.com-1ecc6299db9ec823\unic-char-property-0.7.0\src\property.rs C:\Users\Admin\.cargo\registry\src\github.com-1ecc6299db9ec823\unic-char-property-0.7.0\src\range_types.rs C:\Users\Admin\.cargo\registry\src\github.com-1ecc6299db9ec823\unic-char-property-0.7.0\src\macros.rs C:\Users\Admin\.cargo\registry\src\github.com-1ecc6299db9ec823\unic-char-property-0.7.0\src\tables.rs
+
+C:\Users\Admin\Desktop\RUSTLABS\RUSTweb\target\debug\deps\unic_char_property-77acd56a5b4ee57f.d: C:\Users\Admin\.cargo\registry\src\github.com-1ecc6299db9ec823\unic-char-property-0.7.0\src\lib.rs C:\Users\Admin\.cargo\registry\src\github.com-1ecc6299db9ec823\unic-char-property-0.7.0\src\pkg_info.rs C:\Users\Admin\.cargo\registry\src\github.com-1ecc6299db9ec823\unic-char-property-0.7.0\src\property.rs C:\Users\Admin\.cargo\registry\src\github.com-1ecc6299db9ec823\unic-char-property-0.7.0\src\range_types.rs C:\Users\Admin\.cargo\registry\src\github.com-1ecc6299db9ec823\unic-char-property-0.7.0\src\macros.rs C:\Users\Admin\.cargo\registry\src\github.com-1ecc6299db9ec823\unic-char-property-0.7.0\src\tables.rs
+
+C:\Users\Admin\.cargo\registry\src\github.com-1ecc6299db9ec823\unic-char-property-0.7.0\src\lib.rs:
+C:\Users\Admin\.cargo\registry\src\github.com-1ecc6299db9ec823\unic-char-property-0.7.0\src\pkg_info.rs:
+C:\Users\Admin\.cargo\registry\src\github.com-1ecc6299db9ec823\unic-char-property-0.7.0\src\property.rs:
+C:\Users\Admin\.cargo\registry\src\github.com-1ecc6299db9ec823\unic-char-property-0.7.0\src\range_types.rs:
+C:\Users\Admin\.cargo\registry\src\github.com-1ecc6299db9ec823\unic-char-property-0.7.0\src\macros.rs:
+C:\Users\Admin\.cargo\registry\src\github.com-1ecc6299db9ec823\unic-char-property-0.7.0\src\tables.rs:
